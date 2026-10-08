@@ -1,0 +1,854 @@
+{
+  "en": {
+    "locale": "en-US",
+    "language": "English",
+    "nav": [
+      "The residences",
+      "The island",
+      "Payment plan",
+      "Enquire"
+    ],
+    "skip": "Skip to content",
+    "home": "Home",
+    "hero": "The art of<br><em>island living.</em>",
+    "intro": "Dolce Residences by Wyndham. A new residential perspective on Al Marjan Island, Ras Al Khaimah.",
+    "cta": "Receive the brochure",
+    "discover": "Explore the residences",
+    "from": "Project starting price",
+    "estimate": "Indicative USD",
+    "booking": "On reservation",
+    "handover": "On handover",
+    "completion": "Target completion · Q4 2028*",
+    "heroCaption": "Al Marjan Island · Destination illustration, not a view from the residence.",
+    "projectTitle": "A considered address.<br><em>A different rhythm.</em>",
+    "projectText": "On plot HRA08, Dolce Residences by Wyndham brings a boutique residential scale to Al Marjan Island. The concept brochure presents layered terraces, sculptural lines and a warm material palette.",
+    "projectNote": "The brochure describes a concept-stage project with 93 residences provisionally planned and a tentative completion in Q4 2028. These details may evolve.",
+    "residencesCount": "residences provisionally planned",
+    "typesCount": "residential typologies",
+    "locationLabel": "Al Marjan Island · Ras Al Khaimah",
+    "islandTitle": "An island.<br><em>A wider horizon.</em>",
+    "islandText": "Discover Al Marjan Island, the coastal setting for Dolce in Ras Al Khaimah. Open water, the island landscape and a slower pace frame the residential concept.",
+    "islandNote": "Destination images illustrate the wider area. They do not establish the precise building position, a completed environment or a guaranteed view.",
+    "architectureTitle": "Architecture with<br><em>room to breathe.</em>",
+    "architectureText": "Stepped balconies and generous openings give the proposed façade its distinctive rhythm. Explore the architectural studies directly extracted from the project brochure.",
+    "poolTitle": "A new perspective<br><em>on everyday life.</em>",
+    "poolText": "The concept renders show a rooftop pool and outdoor terraces. Their final design, access and services remain subject to the confirmed project specifications.",
+    "renderCaption": "Dolce project · Concept render from the brochure; design subject to change.",
+    "moodCaption": "Interior inspiration · Courtesy Wyndham, brochure pages 12–13. Not a confirmed Dolce interior.",
+    "planCaption": "Site allocation plan · Brochure page 14. This is not an apartment floor plan.",
+    "residencesTitle": "Find your<br><em>island address.</em>",
+    "residencesText": "Four typologies to explore, from a studio to a three-bedroom residence. Request the current unit selection, individual pricing and approved floor plans.",
+    "unitNames": [
+      "Studio",
+      "1-bedroom residence",
+      "2-bedroom residence",
+      "3-bedroom residence"
+    ],
+    "unitShort": [
+      "Studio",
+      "1 bedroom",
+      "2 bedrooms",
+      "3 bedrooms"
+    ],
+    "unitDescriptions": [
+      "A studio option for an island base. Ask for the approved layout, usable space and storage details before choosing a unit.",
+      "Explore a one-bedroom option. Confirm the bedroom separation, living area and balcony configuration on the specific unit plan.",
+      "Explore a two-bedroom option. Review bedroom arrangements, bathrooms and shared living space on the approved unit plan.",
+      "Explore a three-bedroom option. Request the full layout to assess bedroom privacy, reception space and outdoor areas."
+    ],
+    "viewUnit": "Explore this typology",
+    "onRequest": "On request",
+    "priceNote": "Starting price for the overall project, subject to availability and written confirmation. It is not a confirmed price for every typology. Fees and other acquisition costs are additional.",
+    "interiorsTitle": "An atmosphere,<br><em>an inspiration.</em>",
+    "interiorsText": "Soft textures, natural tones and hospitality-inspired spaces form the interior mood boards. These images express a creative direction; materials, furnishings and finishes for your unit must be confirmed separately.",
+    "paymentTitle": "Reserve today.<br><em>70% at handover.</em>",
+    "paymentIntro": "An uncomplicated structure: 30% on reservation and 70% when the keys are handed over.",
+    "example": "Illustration at the project starting price",
+    "paymentDetail": "View the detailed payment plan",
+    "paymentNote": "Illustration only, excluding fees and other costs. Final price, reservation terms and handover conditions must be confirmed in the purchase agreement. No monthly or post-handover instalments are assumed.",
+    "exchange": "USD amounts are indicative, rounded to the nearest dollar using 1 USD = 3.6725 AED. Payments and contractual prices are in AED.",
+    "calcTitle": "Calculate your 30/70 split",
+    "calcLabel": "Confirmed or proposed property price (AED)",
+    "calcHelp": "Enter an amount of at least AED 1,400,000. This calculator does not confirm unit availability or price.",
+    "calcError": "Enter a valid price of at least AED 1,400,000.",
+    "total": "Total property price",
+    "before": "Total before handover",
+    "after": "After handover",
+    "fees": "Fees and other costs",
+    "feesText": "Registration, administration, service charges and any other acquisition costs are not quantified in the supplied brief. Request a written, itemised estimate before reserving.",
+    "unitHeading": "Your residence,<br><em>in detail.</em>",
+    "unitIntro": "Explore {unit} at Dolce Residences by Wyndham on Al Marjan Island. Individual availability, plans and prices are confirmed on enquiry.",
+    "factsLabels": [
+      "Configuration",
+      "Internal area",
+      "Balcony / total area",
+      "Typology price"
+    ],
+    "plansTitle": "The right plan.<br><em>Before you decide.</em>",
+    "plansText": "The supplied brochure contains site plans, not approved apartment layouts. Request the full plan for your chosen unit, including internal area, outdoor space, orientation and dimensions. No unit area is inferred from the overall building data.",
+    "requestPlan": "Request the unit floor plan",
+    "otherUnits": "Other residences",
+    "unitPaymentNote": "Apply the same 30/70 calculation to the written price of the chosen unit. The project starting price is not a typology quotation.",
+    "faqTitle": "A few things<br><em>to know.</em>",
+    "faq": [
+      [
+        "Where is Dolce Residences by Wyndham?",
+        "The supplied brochure locates Dolce on plot HRA08, Al Marjan Island, Ras Al Khaimah, United Arab Emirates."
+      ],
+      [
+        "What is the starting price?",
+        "The communicated project starting price is AED 1,400,000, approximately USD 381,212. Individual prices and availability must be confirmed; no price is assigned here to a particular typology."
+      ],
+      [
+        "What is the payment plan?",
+        "30% on reservation and 70% at handover. At AED 1,400,000, that is AED 420,000 followed by AED 980,000, excluding fees and other costs."
+      ],
+      [
+        "When is handover expected?",
+        "The concept brochure indicates Q4 2028 as a tentative completion target. This is not a guaranteed contractual delivery date."
+      ],
+      [
+        "Are the interior images final specifications?",
+        "No. The brochure labels them as interior moods courtesy Wyndham. Project concept renders and destination illustrations are identified separately."
+      ],
+      [
+        "Does a purchase qualify for a Golden Visa?",
+        "Eligibility is conditional, requires authority approval and depends on the applicable rules and supporting documents. The ICP real-estate investor route states a minimum property value of AED 2,000,000. A purchase of AED 1,400,000 alone is below that threshold."
+      ]
+    ],
+    "contactTitle": "Your next chapter<br><em>starts here.</em>",
+    "contactText": "Receive the brochure and request the latest availability, approved floor plans and a written payment breakdown.",
+    "contactList": [
+      "Current unit availability",
+      "Confirmed prices and complete plans",
+      "Personal guidance for your purchase"
+    ],
+    "formTitle": "Enquiry — Dolce Residences by Wyndham",
+    "formFallback": "Open the enquiry form",
+    "formNotice": "This form is hosted by Tally. Submissions are sent to the form owner to handle your enquiry.",
+    "privacy": "Privacy & legal information",
+    "legal": "Independent property information website by JeremyPalmDubai. Not the official Wyndham corporate website. Names and visuals belong to their respective owners. Non-contractual presentation; availability, specifications and terms require written confirmation.",
+    "privacyTitle": "Privacy & legal information",
+    "privacyText": "This website presents Dolce Residences by Wyndham and links to an enquiry form managed by its owner. The form is hosted by Tally: the information you choose to submit is processed by Tally and the form owner to respond to your property enquiry. Do not submit identification documents or financial account information. Use the same enquiry channel for questions about your data, access or deletion. This website adds no advertising or analytics tracker; third-party services, including Tally and Google Fonts, receive connection data when loaded. Hosting providers may keep technical access logs.",
+    "privacyNote": "The precise legal entity responsible for the form, its contact address, retention period and any marketing consents must be confirmed with the form owner before submitting personal information.",
+    "brochure": "Project brochure",
+    "source": "Sources & information",
+    "sourceText": "Project information and renders: supplied Dolce concept brochure, pages 4–16. Commercial starting price and payment structure: information provided for this website. Currency reference: Central Bank of the UAE. Golden Visa conditions: ICP.",
+    "notFound": "Page not found",
+    "back": "Return to the residences",
+    "paymentPage": "30/70 payment plan",
+    "unitMeta": "{unit} at Dolce Residences by Wyndham, Al Marjan Island. Request verified plans, current availability and individual pricing. 30/70 payment structure.",
+    "homeMeta": "Discover Dolce Residences by Wyndham on Al Marjan Island. Studios to 3 bedrooms, project prices from AED 1,400,000 and a 30/70 payment plan.",
+    "paymentMeta": "Dolce Residences by Wyndham payment plan: 30% on reservation, 70% at handover. AED and indicative USD breakdown, with a price calculator."
+  },
+  "fr": {
+    "locale": "fr-FR",
+    "language": "Français",
+    "nav": [
+      "Les résidences",
+      "L’île",
+      "Le paiement",
+      "Nous contacter"
+    ],
+    "skip": "Aller au contenu",
+    "home": "Accueil",
+    "hero": "L’art de vivre<br><em>sur une île.</em>",
+    "intro": "Dolce Residences by Wyndham. Une nouvelle perspective résidentielle à Al Marjan Island, Ras Al Khaimah.",
+    "cta": "Recevoir la brochure",
+    "discover": "Découvrir les résidences",
+    "from": "Prix d’appel du programme",
+    "estimate": "USD indicatif",
+    "booking": "À la réservation",
+    "handover": "À la remise des clés",
+    "completion": "Livraison visée · T4 2028*",
+    "heroCaption": "Al Marjan Island · Illustration de la destination, sans vue garantie depuis la résidence.",
+    "projectTitle": "Une adresse singulière.<br><em>Un autre rythme.</em>",
+    "projectText": "Sur la parcelle HRA08, Dolce Residences by Wyndham propose une échelle résidentielle intimiste à Al Marjan Island. La brochure conceptuelle dévoile des terrasses en strates, des lignes sculpturales et une palette chaleureuse.",
+    "projectNote": "La brochure décrit un projet au stade conceptuel, avec 93 résidences envisagées et une livraison prévisionnelle au T4 2028. Ces informations peuvent évoluer.",
+    "residencesCount": "résidences envisagées",
+    "typesCount": "typologies résidentielles",
+    "locationLabel": "Al Marjan Island · Ras Al Khaimah",
+    "islandTitle": "Une île.<br><em>L’horizon en plus.</em>",
+    "islandText": "Découvrez Al Marjan Island, le cadre côtier de Dolce à Ras Al Khaimah. La mer, le paysage insulaire et un rythme plus doux dessinent l’esprit de cette adresse.",
+    "islandNote": "Les visuels de destination illustrent le secteur. Ils ne confirment ni l’implantation précise de l’immeuble, ni un environnement achevé, ni une vue garantie.",
+    "architectureTitle": "Une architecture<br><em>qui respire.</em>",
+    "architectureText": "Balcons en gradins et larges ouvertures rythment la façade envisagée. Découvrez les études architecturales extraites directement de la brochure du projet.",
+    "poolTitle": "Une autre perspective<br><em>sur le quotidien.</em>",
+    "poolText": "Les rendus conceptuels présentent une piscine en toiture et des terrasses extérieures. Leur configuration définitive, leur accès et les services associés restent soumis aux spécifications confirmées du projet.",
+    "renderCaption": "Projet Dolce · Rendu conceptuel de la brochure ; conception susceptible d’évoluer.",
+    "moodCaption": "Inspiration intérieure · Avec l’aimable autorisation de Wyndham, pages 12–13. Ne représente pas un intérieur Dolce confirmé.",
+    "planCaption": "Plan d’affectation de la parcelle · Brochure page 14. Il ne s’agit pas d’un plan d’appartement.",
+    "residencesTitle": "Trouvez votre<br><em>adresse insulaire.</em>",
+    "residencesText": "Quatre typologies à explorer, du studio à la résidence de trois chambres. Demandez la sélection disponible, les prix individuels et les plans approuvés.",
+    "unitNames": [
+      "Studio",
+      "Résidence 1 chambre",
+      "Résidence 2 chambres",
+      "Résidence 3 chambres"
+    ],
+    "unitShort": [
+      "Studio",
+      "1 chambre",
+      "2 chambres",
+      "3 chambres"
+    ],
+    "unitDescriptions": [
+      "Une option studio pour un pied-à-terre insulaire. Demandez le plan approuvé, les surfaces utiles et les rangements avant de choisir votre lot.",
+      "Explorez la configuration une chambre. Vérifiez la séparation de la chambre, le séjour et le balcon sur le plan du lot retenu.",
+      "Découvrez la configuration deux chambres. Examinez les chambres, les salles de bains et les espaces partagés sur le plan approuvé.",
+      "Explorez la configuration trois chambres. Demandez le plan complet pour évaluer l’intimité des chambres, les espaces de réception et les extérieurs."
+    ],
+    "viewUnit": "Découvrir cette typologie",
+    "onRequest": "Sur demande",
+    "priceNote": "Prix d’appel global du programme, sous réserve de disponibilité et de confirmation écrite. Il ne constitue pas un prix confirmé pour chaque typologie. Frais et autres coûts d’acquisition en supplément.",
+    "interiorsTitle": "Une atmosphère,<br><em>une inspiration.</em>",
+    "interiorsText": "Textures douces, tons naturels et esprit hôtelier composent les planches d’ambiance. Ces images expriment une direction créative ; les matériaux, le mobilier et les finitions de votre lot doivent être confirmés séparément.",
+    "paymentTitle": "Réservez aujourd’hui.<br><em>70 % à la livraison.</em>",
+    "paymentIntro": "Une structure simple : 30 % à la réservation et 70 % à la remise des clés.",
+    "example": "Illustration au prix d’appel du programme",
+    "paymentDetail": "Voir le plan de paiement détaillé",
+    "paymentNote": "Exemple indicatif, hors frais et autres coûts. Le prix définitif, les modalités de réservation et la remise des clés doivent être confirmés dans le contrat de vente. Aucune mensualité ni échéance après livraison n’est supposée.",
+    "exchange": "Montants USD indicatifs, arrondis au dollar le plus proche au taux de 1 USD = 3,6725 AED. Paiements et prix contractuels en AED.",
+    "calcTitle": "Calculez votre répartition 30/70",
+    "calcLabel": "Prix confirmé ou envisagé du bien (AED)",
+    "calcHelp": "Saisissez un montant à partir de 1 400 000 AED. Ce calcul ne confirme ni le prix ni la disponibilité d’un lot.",
+    "calcError": "Saisissez un prix valide d’au moins 1 400 000 AED.",
+    "total": "Prix total du bien",
+    "before": "Total avant livraison",
+    "after": "Après livraison",
+    "fees": "Frais et autres coûts",
+    "feesText": "Les frais d’enregistrement, d’administration, de service et autres coûts d’acquisition ne sont pas chiffrés dans les informations fournies. Demandez une estimation écrite et détaillée avant toute réservation.",
+    "unitHeading": "Votre résidence,<br><em>dans le détail.</em>",
+    "unitIntro": "Découvrez la typologie {unit} de Dolce Residences by Wyndham à Al Marjan Island. Disponibilités, plans et prix individuels sont confirmés sur demande.",
+    "factsLabels": [
+      "Configuration",
+      "Surface intérieure",
+      "Balcon / surface totale",
+      "Prix de la typologie"
+    ],
+    "plansTitle": "Le bon plan.<br><em>Avant de décider.</em>",
+    "plansText": "La brochure fournie contient des plans de parcelle, pas de plans d’appartements approuvés. Demandez le plan complet du lot retenu : surface intérieure, extérieurs, orientation et dimensions. Aucune surface de logement n’est déduite des données globales du bâtiment.",
+    "requestPlan": "Demander le plan du logement",
+    "otherUnits": "Les autres résidences",
+    "unitPaymentNote": "La répartition 30/70 s’applique au prix écrit du lot choisi. Le prix d’appel du programme ne constitue pas un devis pour cette typologie.",
+    "faqTitle": "Les réponses<br><em>à vos questions.</em>",
+    "faq": [
+      [
+        "Où se trouve Dolce Residences by Wyndham ?",
+        "La brochure situe Dolce sur la parcelle HRA08, à Al Marjan Island, Ras Al Khaimah, aux Émirats arabes unis."
+      ],
+      [
+        "Quel est le prix d’appel ?",
+        "Le prix d’appel communiqué pour le programme est de 1 400 000 AED, soit environ 381 212 USD. Les prix individuels et disponibilités restent à confirmer ; aucun tarif n’est attribué ici à une typologie précise."
+      ],
+      [
+        "Quel est le plan de paiement ?",
+        "30 % à la réservation et 70 % à la remise des clés. Pour un prix de 1 400 000 AED, cela représente 420 000 AED puis 980 000 AED, hors frais et autres coûts."
+      ],
+      [
+        "Quand la livraison est-elle prévue ?",
+        "La brochure conceptuelle indique une livraison prévisionnelle au T4 2028. Il ne s’agit pas d’une date contractuelle garantie."
+      ],
+      [
+        "Les intérieurs illustrés sont-ils définitifs ?",
+        "Non. La brochure les présente comme des ambiances intérieures avec l’aimable autorisation de Wyndham. Les rendus conceptuels du projet et les illustrations de destination sont identifiés séparément."
+      ],
+      [
+        "Un achat donne-t-il droit au Golden Visa ?",
+        "L’éligibilité est conditionnelle, soumise à l’accord des autorités, aux règles applicables et aux justificatifs. La voie immobilière présentée par l’ICP exige une valeur minimale de 2 000 000 AED. Un achat de 1 400 000 AED à lui seul est inférieur à ce seuil."
+      ]
+    ],
+    "contactTitle": "Votre prochain chapitre<br><em>commence ici.</em>",
+    "contactText": "Recevez la brochure et demandez les dernières disponibilités, les plans approuvés et un échéancier écrit.",
+    "contactList": [
+      "Disponibilités actualisées",
+      "Prix confirmés et plans complets",
+      "Accompagnement de votre achat"
+    ],
+    "formTitle": "Demande d’information — Dolce Residences by Wyndham",
+    "formFallback": "Ouvrir le formulaire de contact",
+    "formNotice": "Ce formulaire est hébergé par Tally. Vos réponses sont transmises à son propriétaire pour traiter votre demande.",
+    "privacy": "Confidentialité et mentions légales",
+    "legal": "Site indépendant d’information immobilière présenté par JeremyPalmDubai. Il ne s’agit pas du site institutionnel officiel de Wyndham. Les noms et visuels appartiennent à leurs ayants droit. Présentation non contractuelle ; disponibilités, prestations et conditions à confirmer par écrit.",
+    "privacyTitle": "Confidentialité et mentions légales",
+    "privacyText": "Ce site présente Dolce Residences by Wyndham et intègre un formulaire de contact géré par son propriétaire. Les informations que vous choisissez de transmettre sont traitées par Tally et le propriétaire du formulaire pour répondre à votre demande immobilière. Ne transmettez pas de pièce d’identité ni de coordonnées bancaires. Utilisez le même canal pour toute demande d’accès ou de suppression de vos données. Ce site n’ajoute aucun outil publicitaire ou analytique ; les services tiers, dont Tally et Google Fonts, reçoivent des données de connexion lors de leur chargement. L’hébergeur peut conserver des journaux techniques.",
+    "privacyNote": "L’identité juridique exacte du responsable du formulaire, son adresse de contact, la durée de conservation et les éventuels consentements marketing sont à confirmer auprès du propriétaire du formulaire avant de communiquer vos données personnelles.",
+    "brochure": "Brochure du projet",
+    "source": "Sources et informations",
+    "sourceText": "Informations et rendus : brochure conceptuelle Dolce fournie, pages 4–16. Prix d’appel et paiement : informations communiquées pour ce site. Référence de change : Banque centrale des Émirats arabes unis. Conditions Golden Visa : ICP.",
+    "notFound": "Page introuvable",
+    "back": "Retour aux résidences",
+    "paymentPage": "Plan de paiement 30/70",
+    "unitMeta": "{unit} à Dolce Residences by Wyndham, Al Marjan Island. Plans vérifiés, disponibilités et prix individuels sur demande. Paiement 30/70.",
+    "homeMeta": "Découvrez Dolce Residences by Wyndham à Al Marjan Island. Du studio au 3 chambres, programme à partir de 1 400 000 AED et paiement 30/70.",
+    "paymentMeta": "Paiement Dolce Residences by Wyndham : 30 % à la réservation, 70 % à la remise des clés. Détail AED et USD indicatif, avec calculateur."
+  },
+  "es": {
+    "locale": "es-ES",
+    "language": "Español",
+    "nav": [
+      "Las residencias",
+      "La isla",
+      "Plan de pago",
+      "Consultar"
+    ],
+    "skip": "Ir al contenido",
+    "home": "Inicio",
+    "hero": "El arte de vivir<br><em>en una isla.</em>",
+    "intro": "Dolce Residences by Wyndham. Una nueva perspectiva residencial en Al Marjan Island, Ras Al Khaimah.",
+    "cta": "Recibir el folleto",
+    "discover": "Descubrir las residencias",
+    "from": "Precio inicial del proyecto",
+    "estimate": "USD orientativo",
+    "booking": "En la reserva",
+    "handover": "En la entrega de llaves",
+    "completion": "Entrega prevista · T4 2028*",
+    "heroCaption": "Al Marjan Island · Ilustración del destino, no de las vistas desde la residencia.",
+    "projectTitle": "Una dirección singular.<br><em>Otro ritmo de vida.</em>",
+    "projectText": "En la parcela HRA08, Dolce Residences by Wyndham propone una escala residencial íntima en Al Marjan Island. El folleto conceptual muestra terrazas escalonadas, líneas escultóricas y una paleta cálida.",
+    "projectNote": "El folleto describe un proyecto en fase conceptual, con 93 residencias provisionales y finalización estimada en el T4 de 2028. Estos datos pueden cambiar.",
+    "residencesCount": "residencias previstas",
+    "typesCount": "tipologías residenciales",
+    "locationLabel": "Al Marjan Island · Ras Al Khaimah",
+    "islandTitle": "Una isla.<br><em>Todo un horizonte.</em>",
+    "islandText": "Descubra Al Marjan Island, el entorno costero de Dolce en Ras Al Khaimah. El mar, el paisaje insular y un ritmo más pausado enmarcan el concepto residencial.",
+    "islandNote": "Las imágenes del destino ilustran la zona. No confirman la posición exacta del edificio, un entorno terminado ni vistas garantizadas.",
+    "architectureTitle": "Arquitectura con<br><em>espacio para respirar.</em>",
+    "architectureText": "Balcones escalonados y grandes aperturas dan ritmo a la fachada propuesta. Explore los estudios arquitectónicos extraídos del folleto del proyecto.",
+    "poolTitle": "Otra perspectiva<br><em>de la vida diaria.</em>",
+    "poolText": "Los renders conceptuales muestran una piscina en la azotea y terrazas exteriores. Su diseño definitivo, acceso y servicios dependen de las especificaciones confirmadas.",
+    "renderCaption": "Proyecto Dolce · Render conceptual del folleto; diseño sujeto a cambios.",
+    "moodCaption": "Inspiración interior · Cortesía de Wyndham, páginas 12–13. No representa un interior Dolce confirmado.",
+    "planCaption": "Plano de la parcela · Página 14 del folleto. No es un plano de apartamento.",
+    "residencesTitle": "Encuentre su<br><em>hogar en la isla.</em>",
+    "residencesText": "Cuatro tipologías, desde estudios hasta residencias de tres dormitorios. Solicite la selección actual, los precios individuales y los planos aprobados.",
+    "unitNames": [
+      "Estudio",
+      "Residencia de 1 dormitorio",
+      "Residencia de 2 dormitorios",
+      "Residencia de 3 dormitorios"
+    ],
+    "unitShort": [
+      "Estudio",
+      "1 dormitorio",
+      "2 dormitorios",
+      "3 dormitorios"
+    ],
+    "unitDescriptions": [
+      "Una opción de estudio como base en la isla. Solicite el plano aprobado, la superficie útil y el almacenamiento antes de elegir.",
+      "Explore la opción de un dormitorio. Confirme la separación del dormitorio, el salón y el balcón en el plano de la unidad.",
+      "Descubra la opción de dos dormitorios. Revise las habitaciones, los baños y los espacios compartidos en el plano aprobado.",
+      "Explore la opción de tres dormitorios. Solicite el plano completo para valorar la privacidad, las zonas de recepción y los exteriores."
+    ],
+    "viewUnit": "Explorar esta tipología",
+    "onRequest": "Bajo consulta",
+    "priceNote": "Precio inicial del proyecto completo, sujeto a disponibilidad y confirmación escrita. No es un precio confirmado para cada tipología. Gastos y otros costes de compra aparte.",
+    "interiorsTitle": "Una atmósfera,<br><em>una inspiración.</em>",
+    "interiorsText": "Texturas suaves, tonos naturales y ambientes de inspiración hotelera forman las propuestas de interiorismo. Expresan una dirección creativa; materiales, mobiliario y acabados deben confirmarse por separado.",
+    "paymentTitle": "Reserve hoy.<br><em>70 % en la entrega.</em>",
+    "paymentIntro": "Una estructura sencilla: 30 % en la reserva y 70 % en la entrega de llaves.",
+    "example": "Ejemplo al precio inicial del proyecto",
+    "paymentDetail": "Ver el plan de pago detallado",
+    "paymentNote": "Ejemplo orientativo, sin gastos ni otros costes. El precio y las condiciones de reserva y entrega deben confirmarse en el contrato. No se presuponen cuotas mensuales ni posteriores a la entrega.",
+    "exchange": "USD orientativo, redondeado al dólar más cercano a 1 USD = 3,6725 AED. Pagos y precios contractuales en AED.",
+    "calcTitle": "Calcule su reparto 30/70",
+    "calcLabel": "Precio confirmado o previsto del inmueble (AED)",
+    "calcHelp": "Introduzca al menos 1 400 000 AED. Este cálculo no confirma el precio ni la disponibilidad de una unidad.",
+    "calcError": "Introduzca un precio válido de al menos 1 400 000 AED.",
+    "total": "Precio total del inmueble",
+    "before": "Total antes de la entrega",
+    "after": "Después de la entrega",
+    "fees": "Gastos y otros costes",
+    "feesText": "Los gastos de registro, administración, mantenimiento y otros costes de compra no están cuantificados en la información facilitada. Solicite un presupuesto escrito y detallado antes de reservar.",
+    "unitHeading": "Su residencia,<br><em>en detalle.</em>",
+    "unitIntro": "Explore {unit} en Dolce Residences by Wyndham, Al Marjan Island. Disponibilidad, planos y precios individuales se confirman bajo consulta.",
+    "factsLabels": [
+      "Configuración",
+      "Superficie interior",
+      "Balcón / superficie total",
+      "Precio por tipología"
+    ],
+    "plansTitle": "El plano adecuado.<br><em>Antes de decidir.</em>",
+    "plansText": "El folleto contiene planos de parcela, no distribuciones de apartamentos aprobadas. Solicite el plano completo de su unidad: superficie interior, exteriores, orientación y dimensiones. No se deducen superficies de vivienda de los datos globales del edificio.",
+    "requestPlan": "Solicitar el plano del apartamento",
+    "otherUnits": "Otras residencias",
+    "unitPaymentNote": "Aplique el reparto 30/70 al precio escrito de la unidad elegida. El precio inicial del proyecto no es una cotización de esta tipología.",
+    "faqTitle": "Respuestas<br><em>a sus preguntas.</em>",
+    "faq": [
+      [
+        "¿Dónde está Dolce Residences by Wyndham?",
+        "El folleto sitúa Dolce en la parcela HRA08 de Al Marjan Island, Ras Al Khaimah, Emiratos Árabes Unidos."
+      ],
+      [
+        "¿Cuál es el precio inicial?",
+        "El precio inicial comunicado es 1 400 000 AED, unos 381 212 USD. Los precios individuales y la disponibilidad requieren confirmación; no se asigna un precio a una tipología concreta."
+      ],
+      [
+        "¿Cómo se paga?",
+        "30 % en la reserva y 70 % en la entrega. Para 1 400 000 AED: 420 000 AED y 980 000 AED, sin gastos ni otros costes."
+      ],
+      [
+        "¿Cuándo está prevista la entrega?",
+        "El folleto conceptual indica el T4 de 2028 como fecha estimada, no como fecha contractual garantizada."
+      ],
+      [
+        "¿Los interiores son definitivos?",
+        "No. Son ambientes de inspiración cortesía de Wyndham. Los renders del proyecto y las ilustraciones del destino se identifican por separado."
+      ],
+      [
+        "¿La compra permite obtener la Golden Visa?",
+        "La elegibilidad es condicional y requiere aprobación de las autoridades, cumplimiento de las normas y documentación. La vía inmobiliaria del ICP exige al menos 2 000 000 AED. Una compra de 1 400 000 AED por sí sola no alcanza ese umbral."
+      ]
+    ],
+    "contactTitle": "Su próximo capítulo<br><em>empieza aquí.</em>",
+    "contactText": "Reciba el folleto y solicite disponibilidad actualizada, planos aprobados y un desglose de pagos por escrito.",
+    "contactList": [
+      "Disponibilidad actual",
+      "Precios confirmados y planos completos",
+      "Asesoramiento para su compra"
+    ],
+    "formTitle": "Consulta — Dolce Residences by Wyndham",
+    "formFallback": "Abrir el formulario",
+    "formNotice": "Formulario alojado por Tally. Sus respuestas se envían al propietario del formulario para atender su consulta.",
+    "privacy": "Privacidad y aviso legal",
+    "legal": "Sitio independiente de información inmobiliaria de JeremyPalmDubai. No es el sitio corporativo oficial de Wyndham. Nombres e imágenes pertenecen a sus titulares. Presentación no contractual; disponibilidad, características y condiciones requieren confirmación escrita.",
+    "privacyTitle": "Privacidad y aviso legal",
+    "privacyText": "Este sitio presenta Dolce Residences by Wyndham e integra un formulario alojado en Tally. Tally y el propietario del formulario procesan la información que envíe para responder a su consulta inmobiliaria. No envíe documentos de identidad ni datos bancarios. Utilice el mismo canal para solicitar acceso o eliminación de sus datos. El sitio no añade rastreadores publicitarios ni analíticos; los servicios externos, incluidos Tally y Google Fonts, reciben datos de conexión al cargarse. El alojamiento puede conservar registros técnicos.",
+    "privacyNote": "Confirme con el propietario del formulario la entidad jurídica responsable, su dirección de contacto, el plazo de conservación y los consentimientos comerciales antes de facilitar datos personales.",
+    "brochure": "Folleto del proyecto",
+    "source": "Fuentes e información",
+    "sourceText": "Proyecto y renders: folleto conceptual Dolce facilitado, páginas 4–16. Precio inicial y pagos: información facilitada para este sitio. Cambio: Banco Central de los EAU. Golden Visa: ICP.",
+    "notFound": "Página no encontrada",
+    "back": "Volver a las residencias",
+    "paymentPage": "Plan de pago 30/70",
+    "unitMeta": "{unit} en Dolce Residences by Wyndham, Al Marjan Island. Planos verificados, disponibilidad y precios individuales bajo consulta. Pago 30/70.",
+    "homeMeta": "Dolce Residences by Wyndham en Al Marjan Island. Estudios y viviendas de 1 a 3 dormitorios. Proyecto desde 1 400 000 AED, pago 30/70.",
+    "paymentMeta": "Plan de pago Dolce: 30 % en la reserva y 70 % en la entrega. Desglose en AED y USD orientativo con calculadora."
+  },
+  "pt": {
+    "locale": "pt-PT",
+    "language": "Português",
+    "nav": [
+      "As residências",
+      "A ilha",
+      "Plano de pagamento",
+      "Contactar"
+    ],
+    "skip": "Ir para o conteúdo",
+    "home": "Início",
+    "hero": "A arte de viver<br><em>numa ilha.</em>",
+    "intro": "Dolce Residences by Wyndham. Uma nova perspetiva residencial em Al Marjan Island, Ras Al Khaimah.",
+    "cta": "Receber a brochura",
+    "discover": "Descobrir as residências",
+    "from": "Preço inicial do empreendimento",
+    "estimate": "USD indicativo",
+    "booking": "Na reserva",
+    "handover": "Na entrega das chaves",
+    "completion": "Entrega prevista · T4 2028*",
+    "heroCaption": "Al Marjan Island · Ilustração do destino, sem vista garantida a partir da residência.",
+    "projectTitle": "Uma morada singular.<br><em>Outro ritmo.</em>",
+    "projectText": "No lote HRA08, Dolce Residences by Wyndham propõe uma escala residencial intimista em Al Marjan Island. A brochura conceptual apresenta terraços escalonados, linhas esculturais e uma paleta acolhedora.",
+    "projectNote": "A brochura descreve um projeto em fase conceptual, com 93 residências previstas e conclusão estimada no T4 de 2028. Estes dados podem mudar.",
+    "residencesCount": "residências previstas",
+    "typesCount": "tipologias residenciais",
+    "locationLabel": "Al Marjan Island · Ras Al Khaimah",
+    "islandTitle": "Uma ilha.<br><em>Um horizonte maior.</em>",
+    "islandText": "Descubra Al Marjan Island, o enquadramento costeiro de Dolce em Ras Al Khaimah. O mar, a paisagem insular e um ritmo mais tranquilo definem o conceito residencial.",
+    "islandNote": "As imagens de destino ilustram a zona. Não confirmam a implantação exata do edifício, um ambiente concluído ou vistas garantidas.",
+    "architectureTitle": "Arquitetura com<br><em>espaço para respirar.</em>",
+    "architectureText": "Varandas escalonadas e grandes aberturas conferem ritmo à fachada proposta. Explore os estudos de arquitetura extraídos da brochura do projeto.",
+    "poolTitle": "Outra perspetiva<br><em>do quotidiano.</em>",
+    "poolText": "As imagens conceptuais mostram uma piscina na cobertura e terraços exteriores. O desenho final, o acesso e os serviços dependem das especificações confirmadas do projeto.",
+    "renderCaption": "Projeto Dolce · Imagem conceptual da brochura; desenho sujeito a alterações.",
+    "moodCaption": "Inspiração de interiores · Cortesia Wyndham, páginas 12–13. Não representa um interior Dolce confirmado.",
+    "planCaption": "Plano de afetação do lote · Página 14 da brochura. Não é uma planta de apartamento.",
+    "residencesTitle": "Encontre a sua<br><em>morada na ilha.</em>",
+    "residencesText": "Quatro tipologias, de estúdios a residências com três quartos. Solicite a seleção disponível, os preços individuais e as plantas aprovadas.",
+    "unitNames": [
+      "Estúdio",
+      "Residência com 1 quarto",
+      "Residência com 2 quartos",
+      "Residência com 3 quartos"
+    ],
+    "unitShort": [
+      "Estúdio",
+      "1 quarto",
+      "2 quartos",
+      "3 quartos"
+    ],
+    "unitDescriptions": [
+      "Uma opção de estúdio como base na ilha. Solicite a planta aprovada, a área útil e os espaços de arrumação antes de escolher.",
+      "Explore a opção de um quarto. Confirme a separação do quarto, a sala e a varanda na planta da fração.",
+      "Descubra a opção de dois quartos. Analise quartos, casas de banho e áreas partilhadas na planta aprovada.",
+      "Explore a opção de três quartos. Solicite a planta completa para avaliar a privacidade, as áreas de receção e os espaços exteriores."
+    ],
+    "viewUnit": "Explorar esta tipologia",
+    "onRequest": "Sob consulta",
+    "priceNote": "Preço inicial global do empreendimento, sujeito a disponibilidade e confirmação escrita. Não é um preço confirmado para cada tipologia. Encargos e outros custos de aquisição não incluídos.",
+    "interiorsTitle": "Uma atmosfera,<br><em>uma inspiração.</em>",
+    "interiorsText": "Texturas suaves, tons naturais e ambientes de inspiração hoteleira compõem as propostas de interiores. São uma direção criativa; materiais, mobiliário e acabamentos exigem confirmação separada.",
+    "paymentTitle": "Reserve hoje.<br><em>70 % na entrega.</em>",
+    "paymentIntro": "Uma estrutura simples: 30 % na reserva e 70 % na entrega das chaves.",
+    "example": "Exemplo ao preço inicial do empreendimento",
+    "paymentDetail": "Ver o plano de pagamento detalhado",
+    "paymentNote": "Exemplo indicativo, sem encargos ou outros custos. O preço e as condições de reserva e entrega devem ser confirmados no contrato. Não se pressupõem prestações mensais ou após a entrega.",
+    "exchange": "USD indicativo, arredondado ao dólar mais próximo ao câmbio de 1 USD = 3,6725 AED. Pagamentos e preços contratuais em AED.",
+    "calcTitle": "Calcule a repartição 30/70",
+    "calcLabel": "Preço confirmado ou previsto do imóvel (AED)",
+    "calcHelp": "Introduza pelo menos 1 400 000 AED. O cálculo não confirma o preço nem a disponibilidade de uma fração.",
+    "calcError": "Introduza um preço válido de pelo menos 1 400 000 AED.",
+    "total": "Preço total do imóvel",
+    "before": "Total antes da entrega",
+    "after": "Após a entrega",
+    "fees": "Encargos e outros custos",
+    "feesText": "Os encargos de registo, administração, condomínio e outros custos não estão quantificados nas informações fornecidas. Solicite uma estimativa escrita e detalhada antes de reservar.",
+    "unitHeading": "A sua residência,<br><em>em detalhe.</em>",
+    "unitIntro": "Explore {unit} em Dolce Residences by Wyndham, Al Marjan Island. Disponibilidades, plantas e preços individuais confirmados sob consulta.",
+    "factsLabels": [
+      "Configuração",
+      "Área interior",
+      "Varanda / área total",
+      "Preço da tipologia"
+    ],
+    "plansTitle": "A planta certa.<br><em>Antes de decidir.</em>",
+    "plansText": "A brochura contém planos do lote, não plantas aprovadas de apartamentos. Solicite a planta completa da fração: áreas interiores, exteriores, orientação e dimensões. Não se deduzem áreas habitacionais a partir dos dados globais do edifício.",
+    "requestPlan": "Solicitar a planta da fração",
+    "otherUnits": "Outras residências",
+    "unitPaymentNote": "Aplique a repartição 30/70 ao preço escrito da fração escolhida. O preço inicial do empreendimento não é uma proposta para esta tipologia.",
+    "faqTitle": "Respostas<br><em>às suas perguntas.</em>",
+    "faq": [
+      [
+        "Onde fica Dolce Residences by Wyndham?",
+        "A brochura situa Dolce no lote HRA08, Al Marjan Island, Ras Al Khaimah, Emirados Árabes Unidos."
+      ],
+      [
+        "Qual é o preço inicial?",
+        "O preço inicial comunicado é 1 400 000 AED, cerca de 381 212 USD. Os preços individuais e a disponibilidade requerem confirmação; não se atribui um preço a uma tipologia específica."
+      ],
+      [
+        "Qual é o plano de pagamento?",
+        "30 % na reserva e 70 % na entrega. Para 1 400 000 AED: 420 000 AED e 980 000 AED, sem encargos ou outros custos."
+      ],
+      [
+        "Quando está prevista a entrega?",
+        "A brochura conceptual indica o T4 de 2028 como previsão, não como data contratual garantida."
+      ],
+      [
+        "Os interiores são definitivos?",
+        "Não. São ambientes de inspiração, cortesia de Wyndham. As imagens conceptuais do projeto e as ilustrações do destino são identificadas separadamente."
+      ],
+      [
+        "A compra permite obter o Golden Visa?",
+        "A elegibilidade é condicional e depende de aprovação das autoridades, das regras e dos documentos exigidos. A via imobiliária do ICP exige pelo menos 2 000 000 AED. Uma compra de 1 400 000 AED, por si só, fica abaixo desse limite."
+      ]
+    ],
+    "contactTitle": "O próximo capítulo<br><em>começa aqui.</em>",
+    "contactText": "Receba a brochura e solicite disponibilidades atualizadas, plantas aprovadas e um plano de pagamentos escrito.",
+    "contactList": [
+      "Disponibilidade atual",
+      "Preços confirmados e plantas completas",
+      "Acompanhamento da sua compra"
+    ],
+    "formTitle": "Pedido de informação — Dolce Residences by Wyndham",
+    "formFallback": "Abrir o formulário",
+    "formNotice": "Formulário alojado na Tally. As respostas são enviadas ao proprietário do formulário para tratar do seu pedido.",
+    "privacy": "Privacidade e informações legais",
+    "legal": "Site independente de informação imobiliária de JeremyPalmDubai. Não é o site institucional oficial da Wyndham. Nomes e imagens pertencem aos respetivos titulares. Apresentação não contratual; disponibilidade, especificações e condições exigem confirmação escrita.",
+    "privacyTitle": "Privacidade e informações legais",
+    "privacyText": "Este site apresenta Dolce Residences by Wyndham e integra um formulário alojado na Tally. A Tally e o proprietário do formulário tratam os dados enviados para responder ao seu pedido imobiliário. Não envie documentos de identificação nem dados bancários. Utilize o mesmo canal para pedir acesso ou eliminação dos dados. O site não adiciona ferramentas publicitárias ou analíticas; serviços externos como Tally e Google Fonts recebem dados de ligação ao carregar. O alojamento pode manter registos técnicos.",
+    "privacyNote": "Confirme com o proprietário do formulário a entidade jurídica responsável, a morada de contacto, o prazo de conservação e os consentimentos de marketing antes de enviar dados pessoais.",
+    "brochure": "Brochura do projeto",
+    "source": "Fontes e informações",
+    "sourceText": "Projeto e imagens: brochura conceptual Dolce fornecida, páginas 4–16. Preço inicial e pagamentos: informações fornecidas para este site. Câmbio: Banco Central dos EAU. Golden Visa: ICP.",
+    "notFound": "Página não encontrada",
+    "back": "Voltar às residências",
+    "paymentPage": "Plano de pagamento 30/70",
+    "unitMeta": "{unit} em Dolce Residences by Wyndham, Al Marjan Island. Plantas, disponibilidade e preços individuais sob consulta. Pagamento 30/70.",
+    "homeMeta": "Dolce Residences by Wyndham em Al Marjan Island. Estúdios e residências de 1 a 3 quartos. Empreendimento desde 1 400 000 AED, pagamento 30/70.",
+    "paymentMeta": "Plano de pagamento Dolce: 30 % na reserva e 70 % na entrega. Valores em AED e USD indicativo, com calculadora."
+  },
+  "de": {
+    "locale": "de-DE",
+    "language": "Deutsch",
+    "nav": [
+      "Die Residenzen",
+      "Die Insel",
+      "Zahlungsplan",
+      "Anfragen"
+    ],
+    "skip": "Zum Inhalt",
+    "home": "Startseite",
+    "hero": "Die Kunst des<br><em>Insellebens.</em>",
+    "intro": "Dolce Residences by Wyndham. Eine neue Wohnperspektive auf Al Marjan Island, Ras Al Khaimah.",
+    "cta": "Broschüre anfordern",
+    "discover": "Residenzen entdecken",
+    "from": "Einstiegspreis des Projekts",
+    "estimate": "USD-Richtwert",
+    "booking": "Bei Reservierung",
+    "handover": "Bei Schlüsselübergabe",
+    "completion": "Geplante Fertigstellung · Q4 2028*",
+    "heroCaption": "Al Marjan Island · Illustration der Destination, keine Aussicht aus der Residenz.",
+    "projectTitle": "Eine besondere Adresse.<br><em>Ein anderer Rhythmus.</em>",
+    "projectText": "Auf Grundstück HRA08 setzt Dolce Residences by Wyndham auf einen überschaubaren Wohnmaßstab. Die Konzeptbroschüre zeigt gestaffelte Terrassen, skulpturale Linien und eine warme Farbpalette.",
+    "projectNote": "Die Broschüre beschreibt ein Projekt in der Konzeptphase: vorläufig 93 Residenzen und voraussichtliche Fertigstellung im Q4 2028. Änderungen sind möglich.",
+    "residencesCount": "vorläufig geplante Residenzen",
+    "typesCount": "Wohnungstypen",
+    "locationLabel": "Al Marjan Island · Ras Al Khaimah",
+    "islandTitle": "Eine Insel.<br><em>Ein weiter Horizont.</em>",
+    "islandText": "Entdecken Sie Al Marjan Island, die Küstenlage von Dolce in Ras Al Khaimah. Meer, Insellandschaft und ein ruhigerer Rhythmus prägen das Wohnkonzept.",
+    "islandNote": "Die Destinationsbilder illustrieren das Umfeld. Sie bestätigen weder den exakten Gebäudestandort noch eine fertiggestellte Umgebung oder garantierte Aussicht.",
+    "architectureTitle": "Architektur mit<br><em>Raum zum Atmen.</em>",
+    "architectureText": "Gestaffelte Balkone und großzügige Öffnungen prägen die geplante Fassade. Entdecken Sie die Architekturstudien aus der Projektbroschüre.",
+    "poolTitle": "Eine neue Perspektive<br><em>auf den Alltag.</em>",
+    "poolText": "Die Konzeptvisualisierungen zeigen einen Dachpool und Außenterrassen. Die endgültige Gestaltung, Nutzung und angebotenen Leistungen müssen anhand der bestätigten Projektspezifikationen geprüft werden.",
+    "renderCaption": "Dolce-Projekt · Konzeptvisualisierung aus der Broschüre; Änderungen vorbehalten.",
+    "moodCaption": "Innenrauminspiration · Mit freundlicher Genehmigung von Wyndham, Seiten 12–13. Kein bestätigtes Dolce-Interieur.",
+    "planCaption": "Grundstücksplan · Broschüre Seite 14. Kein Wohnungsgrundriss.",
+    "residencesTitle": "Finden Sie Ihre<br><em>Inseladresse.</em>",
+    "residencesText": "Vier Wohnungstypen, vom Studio bis zur Residenz mit drei Schlafzimmern. Fragen Sie nach verfügbaren Einheiten, individuellen Preisen und genehmigten Grundrissen.",
+    "unitNames": [
+      "Studio",
+      "Residenz mit 1 Schlafzimmer",
+      "Residenz mit 2 Schlafzimmern",
+      "Residenz mit 3 Schlafzimmern"
+    ],
+    "unitShort": [
+      "Studio",
+      "1 Schlafzimmer",
+      "2 Schlafzimmer",
+      "3 Schlafzimmer"
+    ],
+    "unitDescriptions": [
+      "Eine Studio-Option als Inselrefugium. Fordern Sie vor Ihrer Auswahl den genehmigten Grundriss sowie Angaben zu Nutzfläche und Stauraum an.",
+      "Entdecken Sie die Option mit einem Schlafzimmer. Prüfen Sie Schlafzimmertrennung, Wohnbereich und Balkon im Grundriss der konkreten Einheit.",
+      "Entdecken Sie die Option mit zwei Schlafzimmern. Prüfen Sie Zimmer, Bäder und Gemeinschaftsflächen anhand des genehmigten Grundrisses.",
+      "Entdecken Sie die Option mit drei Schlafzimmern. Fordern Sie den vollständigen Grundriss an, um Privatsphäre, Empfangsbereiche und Außenflächen zu beurteilen."
+    ],
+    "viewUnit": "Wohnungstyp entdecken",
+    "onRequest": "Auf Anfrage",
+    "priceNote": "Einstiegspreis für das Gesamtprojekt, vorbehaltlich Verfügbarkeit und schriftlicher Bestätigung. Kein bestätigter Preis für jeden Wohnungstyp. Gebühren und weitere Erwerbskosten kommen hinzu.",
+    "interiorsTitle": "Eine Atmosphäre,<br><em>eine Inspiration.</em>",
+    "interiorsText": "Weiche Texturen, natürliche Farbtöne und vom Hotelstil inspirierte Räume bilden die Innenraumstudien. Sie zeigen eine kreative Richtung; Materialien, Möbel und Ausstattung müssen gesondert bestätigt werden.",
+    "paymentTitle": "Heute reservieren.<br><em>70 % bei Übergabe.</em>",
+    "paymentIntro": "Eine klare Struktur: 30 % bei Reservierung und 70 % bei Schlüsselübergabe.",
+    "example": "Rechenbeispiel zum Projekteinstiegspreis",
+    "paymentDetail": "Detaillierten Zahlungsplan ansehen",
+    "paymentNote": "Unverbindliches Beispiel ohne Gebühren und weitere Kosten. Endpreis sowie Reservierungs- und Übergabebedingungen sind im Kaufvertrag zu bestätigen. Monatliche Raten oder Raten nach Übergabe werden nicht unterstellt.",
+    "exchange": "USD-Richtwerte, auf volle Dollar gerundet bei 1 USD = 3,6725 AED. Vertragspreise und Zahlungen in AED.",
+    "calcTitle": "Ihre 30/70-Aufteilung berechnen",
+    "calcLabel": "Bestätigter oder geplanter Immobilienpreis (AED)",
+    "calcHelp": "Geben Sie mindestens 1.400.000 AED ein. Die Berechnung bestätigt weder Preis noch Verfügbarkeit einer Einheit.",
+    "calcError": "Bitte einen gültigen Preis ab 1.400.000 AED eingeben.",
+    "total": "Gesamter Immobilienpreis",
+    "before": "Gesamtbetrag vor Übergabe",
+    "after": "Nach Übergabe",
+    "fees": "Gebühren und weitere Kosten",
+    "feesText": "Registrierung, Verwaltung, laufende Objektkosten und weitere Erwerbskosten sind in den bereitgestellten Angaben nicht beziffert. Fordern Sie vor Reservierung eine schriftliche, detaillierte Kostenaufstellung an.",
+    "unitHeading": "Ihre Residenz,<br><em>im Detail.</em>",
+    "unitIntro": "Entdecken Sie {unit} bei Dolce Residences by Wyndham auf Al Marjan Island. Verfügbarkeit, Grundrisse und Einzelpreise werden auf Anfrage bestätigt.",
+    "factsLabels": [
+      "Konfiguration",
+      "Innenfläche",
+      "Balkon / Gesamtfläche",
+      "Preis des Wohnungstyps"
+    ],
+    "plansTitle": "Der richtige Grundriss.<br><em>Vor Ihrer Entscheidung.</em>",
+    "plansText": "Die Broschüre enthält Grundstückspläne, keine genehmigten Wohnungsgrundrisse. Fordern Sie den vollständigen Plan Ihrer Einheit mit Innenfläche, Außenbereichen, Ausrichtung und Maßen an. Aus Gebäudegesamtdaten werden keine Wohnflächen abgeleitet.",
+    "requestPlan": "Wohnungsgrundriss anfordern",
+    "otherUnits": "Weitere Residenzen",
+    "unitPaymentNote": "Die 30/70-Aufteilung wird auf den schriftlich bestätigten Preis der gewählten Einheit angewendet. Der Projekteinstiegspreis ist kein Angebot für diesen Wohnungstyp.",
+    "faqTitle": "Gut<br><em>zu wissen.</em>",
+    "faq": [
+      [
+        "Wo liegt Dolce Residences by Wyndham?",
+        "Laut Broschüre auf Grundstück HRA08, Al Marjan Island, Ras Al Khaimah, Vereinigte Arabische Emirate."
+      ],
+      [
+        "Wie hoch ist der Einstiegspreis?",
+        "Der kommunizierte Projekteinstiegspreis beträgt 1.400.000 AED, etwa 381.212 USD. Einzelpreise und Verfügbarkeit sind zu bestätigen; keinem Wohnungstyp wird hier ein Preis zugeordnet."
+      ],
+      [
+        "Wie wird bezahlt?",
+        "30 % bei Reservierung, 70 % bei Übergabe. Bei 1.400.000 AED sind das 420.000 AED und 980.000 AED, ohne Gebühren und weitere Kosten."
+      ],
+      [
+        "Wann ist die Übergabe geplant?",
+        "Die Konzeptbroschüre nennt Q4 2028 als voraussichtliches Fertigstellungsziel. Dies ist kein garantierter vertraglicher Termin."
+      ],
+      [
+        "Ist die Innenausstattung verbindlich?",
+        "Nein. Die Bilder sind als Innenrauminspiration mit freundlicher Genehmigung von Wyndham bezeichnet. Projektvisualisierungen und Destinationsbilder sind separat gekennzeichnet."
+      ],
+      [
+        "Ermöglicht der Kauf ein Golden Visa?",
+        "Die Berechtigung ist bedingt und hängt von Behördenfreigabe, geltenden Regeln und Nachweisen ab. Der Immobilienweg des ICP setzt mindestens 2.000.000 AED voraus. Ein Kauf für 1.400.000 AED allein liegt unter dieser Schwelle."
+      ]
+    ],
+    "contactTitle": "Ihr nächstes Kapitel<br><em>beginnt hier.</em>",
+    "contactText": "Erhalten Sie die Broschüre und fragen Sie nach aktueller Verfügbarkeit, genehmigten Grundrissen und einer schriftlichen Zahlungsaufstellung.",
+    "contactList": [
+      "Aktuelle Verfügbarkeit",
+      "Bestätigte Preise und vollständige Pläne",
+      "Begleitung beim Immobilienkauf"
+    ],
+    "formTitle": "Anfrage — Dolce Residences by Wyndham",
+    "formFallback": "Anfrageformular öffnen",
+    "formNotice": "Dieses Formular wird von Tally bereitgestellt. Ihre Antworten gehen zur Bearbeitung an den Formularinhaber.",
+    "privacy": "Datenschutz und rechtliche Hinweise",
+    "legal": "Unabhängige Immobilieninformationsseite von JeremyPalmDubai. Keine offizielle Unternehmenswebsite von Wyndham. Namen und Bilder gehören ihren jeweiligen Rechteinhabern. Unverbindliche Darstellung; Verfügbarkeit, Ausstattung und Bedingungen sind schriftlich zu bestätigen.",
+    "privacyTitle": "Datenschutz und rechtliche Hinweise",
+    "privacyText": "Diese Website stellt Dolce Residences by Wyndham vor und bindet ein bei Tally gehostetes Anfrageformular ein. Tally und der Formularinhaber verarbeiten die von Ihnen eingegebenen Informationen zur Beantwortung Ihrer Immobilienanfrage. Übermitteln Sie keine Ausweisdokumente oder Bankdaten. Nutzen Sie denselben Kontaktweg für Auskunft oder Löschung. Die Website fügt keine Werbe- oder Analysetracker hinzu; externe Dienste wie Tally und Google Fonts erhalten beim Laden Verbindungsdaten. Hostinganbieter können technische Zugriffsprotokolle speichern.",
+    "privacyNote": "Klären Sie vor Übermittlung personenbezogener Daten die genaue verantwortliche juristische Person, Kontaktanschrift, Speicherdauer und etwaige Marketingeinwilligungen mit dem Formularinhaber.",
+    "brochure": "Projektbroschüre",
+    "source": "Quellen und Informationen",
+    "sourceText": "Projekt und Visualisierungen: bereitgestellte Dolce-Konzeptbroschüre, Seiten 4–16. Einstiegspreis und Zahlung: Angaben für diese Website. Wechselkurs: Zentralbank der VAE. Golden Visa: ICP.",
+    "notFound": "Seite nicht gefunden",
+    "back": "Zurück zu den Residenzen",
+    "paymentPage": "30/70-Zahlungsplan",
+    "unitMeta": "{unit} bei Dolce Residences by Wyndham, Al Marjan Island. Grundrisse, Verfügbarkeit und Einzelpreise auf Anfrage. 30/70-Zahlungsplan.",
+    "homeMeta": "Dolce Residences by Wyndham auf Al Marjan Island. Studios bis 3 Schlafzimmer. Projekteinstieg ab 1.400.000 AED und 30/70-Zahlungsplan.",
+    "paymentMeta": "Dolce-Zahlungsplan: 30 % bei Reservierung, 70 % bei Übergabe. AED-Aufteilung und indikative USD-Werte mit Rechner."
+  },
+  "nl": {
+    "locale": "nl-NL",
+    "language": "Nederlands",
+    "nav": [
+      "De residenties",
+      "Het eiland",
+      "Betaalplan",
+      "Contact"
+    ],
+    "skip": "Naar de inhoud",
+    "home": "Home",
+    "hero": "De kunst van<br><em>het eilandleven.</em>",
+    "intro": "Dolce Residences by Wyndham. Een nieuw woonperspectief op Al Marjan Island, Ras Al Khaimah.",
+    "cta": "Brochure aanvragen",
+    "discover": "Ontdek de residenties",
+    "from": "Vanafprijs van het project",
+    "estimate": "Indicatie in USD",
+    "booking": "Bij reservering",
+    "handover": "Bij sleuteloverdracht",
+    "completion": "Beoogde oplevering · Q4 2028*",
+    "heroCaption": "Al Marjan Island · Illustratie van de bestemming, geen uitzicht vanuit de residentie.",
+    "projectTitle": "Een bijzonder adres.<br><em>Een ander ritme.</em>",
+    "projectText": "Op perceel HRA08 brengt Dolce Residences by Wyndham een kleinschalig woonconcept naar Al Marjan Island. De conceptbrochure toont gelaagde terrassen, sculpturale lijnen en een warm kleurenpalet.",
+    "projectNote": "De brochure beschrijft een project in de conceptfase, met voorlopig 93 residenties en een beoogde oplevering in Q4 2028. Deze gegevens kunnen veranderen.",
+    "residencesCount": "voorlopig geplande residenties",
+    "typesCount": "woningtypen",
+    "locationLabel": "Al Marjan Island · Ras Al Khaimah",
+    "islandTitle": "Een eiland.<br><em>Een ruimere horizon.</em>",
+    "islandText": "Ontdek Al Marjan Island, de kustomgeving van Dolce in Ras Al Khaimah. De zee, het eilandlandschap en een rustiger tempo vormen de basis van het woonconcept.",
+    "islandNote": "De bestemmingsbeelden illustreren de omgeving. Ze bevestigen geen exacte gebouwpositie, voltooide omgeving of gegarandeerd uitzicht.",
+    "architectureTitle": "Architectuur met<br><em>ruimte om te ademen.</em>",
+    "architectureText": "Getrapte balkons en ruime openingen geven de voorgestelde gevel zijn ritme. Bekijk de architectuurstudies uit de projectbrochure.",
+    "poolTitle": "Een ander perspectief<br><em>op elke dag.</em>",
+    "poolText": "De conceptbeelden tonen een zwembad op het dak en buitenterrassen. Het definitieve ontwerp, de toegang en de diensten blijven afhankelijk van de bevestigde projectspecificaties.",
+    "renderCaption": "Dolce-project · Conceptbeeld uit de brochure; ontwerp kan veranderen.",
+    "moodCaption": "Interieurinspiratie · Met dank aan Wyndham, pagina’s 12–13. Geen bevestigd Dolce-interieur.",
+    "planCaption": "Perceelplan · Brochure pagina 14. Geen plattegrond van een appartement.",
+    "residencesTitle": "Vind uw<br><em>adres op het eiland.</em>",
+    "residencesText": "Vier woningtypen, van studio tot residentie met drie slaapkamers. Vraag naar het actuele aanbod, individuele prijzen en goedgekeurde plattegronden.",
+    "unitNames": [
+      "Studio",
+      "Residentie met 1 slaapkamer",
+      "Residentie met 2 slaapkamers",
+      "Residentie met 3 slaapkamers"
+    ],
+    "unitShort": [
+      "Studio",
+      "1 slaapkamer",
+      "2 slaapkamers",
+      "3 slaapkamers"
+    ],
+    "unitDescriptions": [
+      "Een studio als uitvalsbasis op het eiland. Vraag vóór uw keuze naar de goedgekeurde plattegrond, bruikbare oppervlakte en bergruimte.",
+      "Ontdek de optie met één slaapkamer. Controleer de afscheiding van de slaapkamer, de woonkamer en het balkon op de plattegrond van de woning.",
+      "Ontdek de optie met twee slaapkamers. Bekijk slaapkamers, badkamers en gedeelde leefruimte op de goedgekeurde plattegrond.",
+      "Ontdek de optie met drie slaapkamers. Vraag de volledige plattegrond om privacy, ontvangstruimte en buitenruimten te beoordelen."
+    ],
+    "viewUnit": "Bekijk dit woningtype",
+    "onRequest": "Op aanvraag",
+    "priceNote": "Vanafprijs voor het gehele project, onder voorbehoud van beschikbaarheid en schriftelijke bevestiging. Geen bevestigde prijs voor ieder woningtype. Bijkomende kosten zijn niet inbegrepen.",
+    "interiorsTitle": "Een sfeer,<br><em>een inspiratie.</em>",
+    "interiorsText": "Zachte texturen, natuurlijke tinten en door gastvrijheid geïnspireerde ruimtes vormen de interieurstudies. Ze tonen een creatieve richting; materialen, meubels en afwerking moeten afzonderlijk worden bevestigd.",
+    "paymentTitle": "Reserveer vandaag.<br><em>70% bij oplevering.</em>",
+    "paymentIntro": "Een heldere structuur: 30% bij reservering en 70% bij sleuteloverdracht.",
+    "example": "Rekenvoorbeeld bij de vanafprijs van het project",
+    "paymentDetail": "Bekijk het volledige betaalplan",
+    "paymentNote": "Indicatief voorbeeld, exclusief bijkomende kosten. De definitieve prijs en reserverings- en opleveringsvoorwaarden moeten in de koopovereenkomst worden bevestigd. Er worden geen maandtermijnen of betalingen na oplevering verondersteld.",
+    "exchange": "USD-bedragen zijn indicatief, afgerond op hele dollars bij 1 USD = 3,6725 AED. Betalingen en contractprijzen zijn in AED.",
+    "calcTitle": "Bereken uw verdeling 30/70",
+    "calcLabel": "Bevestigde of beoogde woningprijs (AED)",
+    "calcHelp": "Voer minimaal 1.400.000 AED in. Deze berekening bevestigt geen prijs of beschikbaarheid.",
+    "calcError": "Voer een geldige prijs van minimaal 1.400.000 AED in.",
+    "total": "Totale woningprijs",
+    "before": "Totaal vóór oplevering",
+    "after": "Na oplevering",
+    "fees": "Bijkomende kosten",
+    "feesText": "Registratie, administratie, servicekosten en andere aankoopkosten zijn niet gespecificeerd in de aangeleverde informatie. Vraag vóór reservering een schriftelijke en gespecificeerde raming.",
+    "unitHeading": "Uw residentie,<br><em>in detail.</em>",
+    "unitIntro": "Ontdek {unit} bij Dolce Residences by Wyndham op Al Marjan Island. Beschikbaarheid, plattegronden en individuele prijzen worden op aanvraag bevestigd.",
+    "factsLabels": [
+      "Indeling",
+      "Binnenoppervlakte",
+      "Balkon / totale oppervlakte",
+      "Prijs van het woningtype"
+    ],
+    "plansTitle": "De juiste plattegrond.<br><em>Vóór uw beslissing.</em>",
+    "plansText": "De brochure bevat perceelplannen, geen goedgekeurde woningplattegronden. Vraag het volledige plan van uw woning met binnenoppervlakte, buitenruimte, oriëntatie en afmetingen. Woningoppervlakten worden niet afgeleid van algemene gebouwgegevens.",
+    "requestPlan": "Vraag de woningplattegrond aan",
+    "otherUnits": "Andere residenties",
+    "unitPaymentNote": "Pas de verdeling 30/70 toe op de schriftelijk bevestigde prijs van de gekozen woning. De vanafprijs van het project is geen offerte voor dit woningtype.",
+    "faqTitle": "Goed<br><em>om te weten.</em>",
+    "faq": [
+      [
+        "Waar ligt Dolce Residences by Wyndham?",
+        "Volgens de brochure op perceel HRA08, Al Marjan Island, Ras Al Khaimah, Verenigde Arabische Emiraten."
+      ],
+      [
+        "Wat is de vanafprijs?",
+        "De gecommuniceerde vanafprijs is 1.400.000 AED, circa 381.212 USD. Individuele prijzen en beschikbaarheid vereisen bevestiging; er wordt geen prijs aan een specifiek woningtype gekoppeld."
+      ],
+      [
+        "Hoe wordt betaald?",
+        "30% bij reservering en 70% bij oplevering. Bij 1.400.000 AED: 420.000 AED en 980.000 AED, exclusief bijkomende kosten."
+      ],
+      [
+        "Wanneer is de oplevering gepland?",
+        "De conceptbrochure noemt Q4 2028 als voorlopige streefdatum. Dit is geen gegarandeerde contractuele opleverdatum."
+      ],
+      [
+        "Zijn de interieurs definitief?",
+        "Nee. Het zijn sfeerbeelden met dank aan Wyndham. Projectconcepten en bestemmingsbeelden worden afzonderlijk aangeduid."
+      ],
+      [
+        "Geeft de aankoop recht op een Golden Visa?",
+        "De voorwaarden, documenten en goedkeuring door de autoriteiten bepalen de geschiktheid. De vastgoedroute van ICP vereist minimaal 2.000.000 AED. Een aankoop van 1.400.000 AED alleen ligt onder die grens."
+      ]
+    ],
+    "contactTitle": "Uw volgende hoofdstuk<br><em>begint hier.</em>",
+    "contactText": "Ontvang de brochure en vraag naar beschikbaarheid, goedgekeurde plattegronden en een schriftelijk betaaloverzicht.",
+    "contactList": [
+      "Actuele beschikbaarheid",
+      "Bevestigde prijzen en volledige plannen",
+      "Begeleiding bij uw aankoop"
+    ],
+    "formTitle": "Aanvraag — Dolce Residences by Wyndham",
+    "formFallback": "Open het contactformulier",
+    "formNotice": "Dit formulier wordt gehost door Tally. Uw antwoorden gaan naar de formulierteigenaar om uw aanvraag te behandelen.",
+    "privacy": "Privacy en juridische informatie",
+    "legal": "Onafhankelijke vastgoedinformatiesite van JeremyPalmDubai. Geen officiële bedrijfswebsite van Wyndham. Namen en beelden behoren aan hun rechthebbenden. Niet-contractuele presentatie; beschikbaarheid, specificaties en voorwaarden vereisen schriftelijke bevestiging.",
+    "privacyTitle": "Privacy en juridische informatie",
+    "privacyText": "Deze website presenteert Dolce Residences by Wyndham en bevat een formulier dat door Tally wordt gehost. Tally en de formulierteigenaar verwerken uw verstrekte gegevens om uw vastgoedvraag te beantwoorden. Verstuur geen identiteitsdocumenten of bankgegevens. Gebruik hetzelfde contactkanaal voor inzage of verwijdering. De website voegt geen advertentie- of analysetrackers toe; externe diensten zoals Tally en Google Fonts ontvangen verbindingsgegevens bij het laden. Hostingaanbieders kunnen technische logboeken bewaren.",
+    "privacyNote": "Bevestig vóór het verstrekken van persoonsgegevens de verantwoordelijke rechtspersoon, het contactadres, de bewaartermijn en eventuele marketingtoestemmingen bij de formulierteigenaar.",
+    "brochure": "Projectbrochure",
+    "source": "Bronnen en informatie",
+    "sourceText": "Project en beelden: aangeleverde Dolce-conceptbrochure, pagina’s 4–16. Vanafprijs en betaling: informatie voor deze website. Wisselkoers: Centrale Bank van de VAE. Golden Visa: ICP.",
+    "notFound": "Pagina niet gevonden",
+    "back": "Terug naar de residenties",
+    "paymentPage": "Betaalplan 30/70",
+    "unitMeta": "{unit} bij Dolce Residences by Wyndham, Al Marjan Island. Plattegronden, beschikbaarheid en individuele prijzen op aanvraag. Betaalplan 30/70.",
+    "homeMeta": "Dolce Residences by Wyndham op Al Marjan Island. Studio’s tot 3 slaapkamers. Project vanaf 1.400.000 AED met betaalplan 30/70.",
+    "paymentMeta": "Dolce-betaalplan: 30% bij reservering en 70% bij oplevering. AED-overzicht en indicatieve USD-bedragen met calculator."
+  }
+}

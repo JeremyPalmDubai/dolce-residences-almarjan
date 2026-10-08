@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dolce-residences-almarjan.com/sitemap.xml
+Sitemap: https://dolce-residences-almarjan.com/sitemap-images.xml

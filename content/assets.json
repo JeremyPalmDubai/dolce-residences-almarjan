@@ -1,0 +1,80 @@
+{
+  "project-front": {
+    "width": 1800,
+    "height": 1346,
+    "source": "Supplied Dolce brochure, page 4",
+    "kind": "project"
+  },
+  "project-corner": {
+    "width": 1800,
+    "height": 1319,
+    "source": "Supplied Dolce brochure, page 7",
+    "kind": "project"
+  },
+  "project-pool": {
+    "width": 1800,
+    "height": 1276,
+    "source": "Supplied Dolce brochure, page 9",
+    "kind": "project"
+  },
+  "project-rooftop": {
+    "width": 1800,
+    "height": 1343,
+    "source": "Supplied Dolce brochure, page 8",
+    "kind": "project"
+  },
+  "project-evening": {
+    "width": 1800,
+    "height": 1270,
+    "source": "Supplied Dolce brochure, page 11",
+    "kind": "project"
+  },
+  "project-detail": {
+    "width": 1800,
+    "height": 1304,
+    "source": "Supplied Dolce brochure, page 11",
+    "kind": "project"
+  },
+  "interior-mood": {
+    "width": 1800,
+    "height": 782,
+    "source": "Supplied Dolce brochure, page 12",
+    "kind": "mood"
+  },
+  "bedroom-mood": {
+    "width": 1489,
+    "height": 1370,
+    "source": "Supplied Dolce brochure, page 12",
+    "kind": "mood"
+  },
+  "lobby-mood": {
+    "width": 1269,
+    "height": 1800,
+    "source": "Supplied Dolce brochure, page 13",
+    "kind": "mood"
+  },
+  "plot-plan": {
+    "width": 1552,
+    "height": 1066,
+    "source": "Supplied Dolce brochure, page 14",
+    "kind": "plan"
+  },
+  "al-marjan-hero": {
+    "width": 1672,
+    "height": 941,
+    "source": "User-supplied Image Codex 24 sept. 2026, 15_45_24.png",
+    "kind": "destination"
+  },
+  "al-marjan-island": {
+    "width": 1672,
+    "height": 941,
+    "source": "Local Downloads/MarjanIsland2030.png (replacement for unavailable /mnt/data/image.png)",
+    "kind": "destination"
+  },
+  "dolce-hero": {
+    "width": 1200,
+    "height": 896,
+    "source": "Project render explicitly supplied by user for the hero on 2026-10-08",
+    "kind": "project"
+  }
+}

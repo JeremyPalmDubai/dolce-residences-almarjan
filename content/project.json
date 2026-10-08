@@ -1,0 +1,21 @@
+{
+  "name": "Dolce Residences by Wyndham",
+  "domain": "https://dolce-residences-almarjan.com",
+  "location": "Al Marjan Island, Ras Al Khaimah, UAE",
+  "plot": "HRA08",
+  "starting_price_aed": 1400000,
+  "aed_per_usd": 3.6725,
+  "booking_percent": 30,
+  "handover_percent": 70,
+  "tentative_completion": "Q4 2028",
+  "tentative_residences": 93,
+  "tally_id": "kdVP5j",
+  "languages": ["en", "fr", "es", "nl", "de", "pt"],
+  "units": ["studio", "1br", "2br", "3br"],
+  "source_notes": {
+    "brochure": "User-supplied 17-page Dolce concept brochure. Pages 5 and 16: tentative 93 residences, Q4 2028; page 16: studio/1BR/2BR/3BR. Pages 12-13 explicitly label interiors as moods courtesy Wyndham, not final specifications.",
+    "commercial": "Starting price and 30/70 terms provided directly by the user; not a confirmed price list for individual unit types.",
+    "fx": "https://centralbank.ae/umbraco/Surface/Exchange/GetExchangeRateAllCurrency",
+    "visa": "https://icp.gov.ae/en/services-details/?serviceid=68e34eea5ae59b00117383d5"
+  }
+}
