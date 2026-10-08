@@ -1,0 +1,28 @@
+# Hostinger Apache/LiteSpeed: publish only the generated static site in docs/.
+# GitHub Pages publishes docs/ directly and does not use this file.
+Options -Indexes
+DirectoryIndex index.html
+ErrorDocument 404 /docs/404.html
+
+RewriteEngine On
+
+# One public HTTPS origin.
+RewriteCond %{HTTP_HOST} ^www\.dolce-residences-almarjan\.com$ [NC]
+RewriteRule ^ https://dolce-residences-almarjan.com%{REQUEST_URI} [R=301,L,NE]
+RewriteCond %{HTTPS} !=on
+RewriteCond %{HTTP:X-Forwarded-Proto} !^https$ [NC]
+RewriteRule ^ https://dolce-residences-almarjan.com%{REQUEST_URI} [R=301,L,NE]
+
+# Remove /docs only from explicitly requested URLs, never internal rewrites.
+RewriteCond %{THE_REQUEST} \s/+docs(?:[/\s?]) [NC]
+RewriteRule ^docs(?:/(.*))?$ /$1 [R=301,L,NE]
+
+# Internal requests already routed to the generated site are complete.
+RewriteRule ^docs(?:/|$) - [L]
+
+# Match directory-style URLs before rewriting so relative assets resolve properly.
+RewriteCond %{DOCUMENT_ROOT}/docs/$1 -d
+RewriteRule ^(.+[^/])$ /$1/ [R=301,L,NE]
+
+# Every public request resolves within docs; source folders are not served.
+RewriteRule ^(.*)$ docs/$1 [L]

@@ -21,7 +21,9 @@ GitHub Pages : publier la branche **main**, dossier **/docs**.
 Adresse attendue après publication : `https://jeremypalmdubai.github.io/dolce-residences-almarjan/fr/`.
 Les liens et ressources sont relatifs pour fonctionner à la racine d'un domaine, dans GitHub Pages et en local.
 
-Pour un hébergement statique externe, transférer le **contenu** de `docs/` dans le dossier public. Il ne faut pas lancer de serveur Node en production.
+Sur **Hostinger avec déploiement Git dans `public_html`**, le fichier `.htaccess` à la racine route les requêtes vers `docs/`, sans exposer ce préfixe dans les URLs. Il redirige aussi HTTP et www vers le domaine HTTPS canonique. Les dossiers sources ne sont pas servis. Le dossier de publication GitHub Pages reste **/docs**.
+
+Pour un autre hébergement statique, transférer le **contenu** de `docs/` dans le dossier public. Aucun serveur Node n’est nécessaire en production.
 
 ## Domaine et SEO
 
